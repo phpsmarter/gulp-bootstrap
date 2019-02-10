@@ -1,4 +1,4 @@
 # gulp-bootstrap
-##  gulp-bootstrap bootstrap2
+##  gulp-bootstrap bootstrap1
 
 
