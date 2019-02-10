@@ -1,3 +1,3 @@
 # gulp-bootstrap
-##  gulp-bootstrap feature branch
+##  gulp-bootstrap master template
 
